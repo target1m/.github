@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.dev/188800/?scale=1000000&title=funds&width=1000&color=babaca&suffix=$)
+![Progress](https://progress-bar.dev/205800/?scale=1000000&title=funds&width=1000&color=babaca&suffix=$)
 
 
 # 🚀 CryptoBot Community
