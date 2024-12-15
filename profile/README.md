@@ -1,6 +1,6 @@
 ![Progress](https://progress-bar.dev/299100/?scale=1000000&title=funds&width=1000&color=babaca&suffix=$)
 
-![Progress](https://img.shields.io/badge/Containment-20%25-brightgreen?style=flat)
+![Progress](https://img.shields.io/badge/Containment-20%30-brightgreen?style=flat)
 
 # 🚀 CryptoBot Community
 
