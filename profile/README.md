@@ -1,12 +1,5 @@
 ![Progress](https://progress-bar.dev/299100/?scale=1000000&title=funds&width=1000&color=babaca&suffix=$)
 
-![Progress](https://img.shields.io/badge/Containment-20%30-brightgreen?style=flat)
-
-<h3>Containment</h3>
-<p>Updated 4 minutes ago</p>
-
-<progress value="20" max="100" style="width: 100%; height: 20px;"></progress>
-
 # 🚀 CryptoBot Community
 
 ![Community Badge](https://img.shields.io/badge/Community-Growing-brightgreen)
