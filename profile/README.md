@@ -1,10 +1,5 @@
 ![Progress](https://progress-bar.dev/405200/?scale=1000000&title=funds&width=1000&color=babaca&suffix=$)
 
-```dataview
-table completed, goal, (completed / goal) * 100 as Progress
-from "progress"
-where goal != null
-
 
 # 🚀 CryptoBot Community
 
