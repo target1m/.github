@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/405200/?scale=1000000&title=payment&width=1000&color=babaca)
+![Progress](https://progress-bar.xyz/407700/?scale=1000000&title=payment&width=1000&color=babaca)
 
 
 # 🚀 CryptoBot Community
