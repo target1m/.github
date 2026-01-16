@@ -1,6 +1,6 @@
 ![Progress](https://progress-bar.xyz/1000000/?scale=1000000&title=Payment&width=1000&suffix=$)
 
-![Progress](https://progress-bar.xyz/32800/?scale=2000000&title=Payment&width=1000&suffix=$)
+![Progress](https://progress-bar.xyz/35300/?scale=2000000&title=Payment&width=1000&suffix=$)
 
 # 🚀 CryptoBot Community
 
