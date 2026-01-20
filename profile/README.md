@@ -5,7 +5,7 @@
 ![Telegram Badge](https://img.shields.io/badge/Telegram-Bots-yellow)
 ![Crypto Badge](https://img.shields.io/badge/Crypto-Enabled-orange)
 
-Welcome to **CryptoBot Community**! 🌟 Our mission is to revolutionize the cryptocurrency landscape with innovative Telegram bots, all while aiming to achieve a monumental goal: **$1,000,000** in revenue! 💰
+Welcome to **CryptoBot Community**! 🌟 Our mission is to revolutionize the cryptocurrency landscape with innovative Telegram bots.
 
 ## 🎯 Our Purpose
 In the rapidly evolving world of cryptocurrency, automation and instant communication are key. Our purpose is to develop cutting-edge Telegram bots that cater to the needs of crypto enthusiasts, traders, and investors. By leveraging the power of bots, we aim to provide seamless, efficient, and secure solutions that drive the future of digital finance.
@@ -26,7 +26,6 @@ We specialize in:
 - **Q2 2024**: Launch initial bot prototypes
 - **Q3 2024**: Beta testing and community feedback
 - **Q4 2024**: Full-scale deployment and marketing
-- **2025**: Achieve $1,000,000 revenue milestone
 
 ## 📞 Get Involved
 Join our community and start making an impact today! Whether you're a developer, investor, or simply a crypto enthusiast, there's a place for you here.
