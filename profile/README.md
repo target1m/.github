@@ -22,11 +22,6 @@ We specialize in:
 - **Collaborative Environment**: Work with a passionate and skilled team of developers and crypto enthusiasts.
 - **Monetary Goal**: Contribute to our ambitious goal of generating $1,000,000 and share in the success.
 
-## 📈 Progress and Milestones
-- **Q2 2024**: Launch initial bot prototypes
-- **Q3 2024**: Beta testing and community feedback
-- **Q4 2024**: Full-scale deployment and marketing
-
 ## 📞 Get Involved
 Join our community and start making an impact today! Whether you're a developer, investor, or simply a crypto enthusiast, there's a place for you here.
 
