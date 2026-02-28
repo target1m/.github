@@ -31,6 +31,7 @@ Join our community and start making an impact today! Whether you're a developer,
 
 ## 🍯 Products
 TraderSpy: https://traderspy.app/
+
 Sanji: https://sanji.app/
 
 ## 🤝 Contributors
