@@ -29,6 +29,10 @@ Join our community and start making an impact today! Whether you're a developer,
 - **Discord**: [Join our Discord Server](https://discord.gg/join)
 - **Twitter**: [Follow us on Twitter](https://twitter.com/cryptobotcommunity)
 
+## 🍯 Products
+TraderSpy: https://traderspy.app/
+Sanji: https://sanji.app/
+
 ## 🤝 Contributors
 We welcome contributors of all skill levels. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
