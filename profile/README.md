@@ -4,11 +4,11 @@ We are the team behind **[TraderSpy](https://traderspy.app)** and **[Sanji](http
 
 ## TraderSpy
 
-Crypto futures research and trading, built around data you can check:
+Crypto futures market research: data and analysis you can check, not investment advice.
 
-- **AI trading signals with a public track record.** Every signal carries its entry, take-profit ladder and stop, and its realised outcome is published on [traderspy.app/performance](https://traderspy.app/performance).
+- **AI market analysis and signals.** Every signal carries its entry, take-profit ladder and stop, and the [signals feed](https://traderspy.app/signals) publishes each one with its resolved outcome.
 - **Smart-money tracking.** Positions of top traders on Binance, Hyperliquid, Bybit and OKX.
-- **Trading.** Hyperliquid trading and copy trading, the [Position Doctor](https://traderspy.app/doctor) health check for open positions, and Solana memecoin trading.
+- **Research tools.** Hyperliquid charts with paper trading, and the [Position Doctor](https://traderspy.app/doctor) health check for open positions.
 
 On the web at [traderspy.app](https://traderspy.app), and on iOS and Android.
 
