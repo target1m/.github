@@ -1,47 +1,30 @@
-# 🚀 CryptoBot Community
+# Target One Million
 
-![Community Badge](https://img.shields.io/badge/Community-Growing-brightgreen)
-![Goal Badge](https://img.shields.io/badge/Goal-1M%20Dollars-blue)
-![Telegram Badge](https://img.shields.io/badge/Telegram-Bots-yellow)
-![Crypto Badge](https://img.shields.io/badge/Crypto-Enabled-orange)
+We are the team behind **[TraderSpy](https://traderspy.app)** and **[Sanji](https://sanji.app)**.
 
-Welcome to **CryptoBot Community**! 🌟 Our mission is to revolutionize the cryptocurrency landscape with innovative Telegram bots.
+## TraderSpy
 
-## 🎯 Our Purpose
-In the rapidly evolving world of cryptocurrency, automation and instant communication are key. Our purpose is to develop cutting-edge Telegram bots that cater to the needs of crypto enthusiasts, traders, and investors. By leveraging the power of bots, we aim to provide seamless, efficient, and secure solutions that drive the future of digital finance.
+Crypto futures research and trading, built around data you can check:
 
-## 🛠️ What We Do
-We specialize in:
-- **Trading Bots**: Automated bots that execute trades based on predefined strategies and market conditions.
-- **Portfolio Management Bots**: Tools to track and manage your crypto investments effortlessly.
-- **News and Alerts Bots**: Stay updated with the latest news and market alerts directly on Telegram.
-- **Community Engagement Bots**: Foster active and engaged crypto communities with interactive bots.
+- **AI trading signals with a public track record.** Every signal carries its entry, take-profit ladder and stop, and its realised outcome is published on [traderspy.app/performance](https://traderspy.app/performance).
+- **Smart-money tracking.** Positions of top traders on Binance, Hyperliquid, Bybit and OKX.
+- **Trading.** Hyperliquid trading and copy trading, the [Position Doctor](https://traderspy.app/doctor) health check for open positions, and Solana memecoin trading.
 
-## 💡 Why Join Us?
-- **Innovative Projects**: Be a part of groundbreaking projects that shape the future of cryptocurrency.
-- **Collaborative Environment**: Work with a passionate and skilled team of developers and crypto enthusiasts.
-- **Monetary Goal**: Contribute to our ambitious goal of generating $1,000,000 and share in the success.
+On the web at [traderspy.app](https://traderspy.app), and on iOS and Android.
 
-## 📞 Get Involved
-Join our community and start making an impact today! Whether you're a developer, investor, or simply a crypto enthusiast, there's a place for you here.
+### TraderSpy for AI assistants (MCP)
 
-- **Telegram**: [Join our Telegram Group](https://t.me/joinchat)
-- **Discord**: [Join our Discord Server](https://discord.gg/join)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/cryptobotcommunity)
+The same data inside Claude, ChatGPT, Grok, Cursor or any MCP client: 18 read-only tools, with no order, transfer or withdrawal tool.
 
-## 🍯 Products
-TraderSpy: https://traderspy.app/
+- **Endpoint:** `https://mcp.traderspy.app/mcp` (Streamable HTTP; OAuth 2.1 or a free API key)
+- **Setup and key:** [traderspy.app/mcp](https://traderspy.app/mcp)
+- **Plugin and skills:** [target1m/traderspy-mcp](https://github.com/target1m/traderspy-mcp) for Claude Code, Cursor and Grok Build
+- **Registries:** `app.traderspy/traderspy` on the official MCP Registry · [![TraderSpy MCP connector on Glama](https://glama.ai/mcp/connectors/app.traderspy/traderspy/badges/score.svg)](https://glama.ai/mcp/connectors/app.traderspy/traderspy)
 
-Sanji: https://sanji.app/
+## Contact
 
-## 🤝 Contributors
-We welcome contributors of all skill levels. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+- Support: [support@traderspy.app](mailto:support@traderspy.app)
+- X: [@traderspyapp](https://x.com/traderspyapp) · Telegram: [t.me/traderspyapp](https://t.me/traderspyapp)
+- [Privacy policy](https://traderspy.app/privacy-policy) · [Terms of use](https://traderspy.app/terms-of-use)
 
-## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Let's create the future of cryptocurrency, one bot at a time! 🚀💰
-
-![CryptoBot Community](https://img.shields.io/badge/CryptoBot-Community-success)
+TraderSpy provides market data and analysis, not investment advice.
