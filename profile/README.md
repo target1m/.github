@@ -14,7 +14,7 @@ On the web at [traderspy.app](https://traderspy.app), and on iOS and Android.
 
 ### TraderSpy for AI assistants (MCP)
 
-The same data inside Claude, ChatGPT, Grok, Cursor or any MCP client: 18 read-only tools, with no order, transfer or withdrawal tool.
+The same data inside Claude, ChatGPT, Grok, Cursor or any MCP client: 17 read-only tools, with no order, transfer or withdrawal tool.
 
 - **Endpoint:** `https://mcp.traderspy.app/mcp` (Streamable HTTP; OAuth 2.1 or a free API key)
 - **Setup and key:** [traderspy.app/mcp](https://traderspy.app/mcp)
